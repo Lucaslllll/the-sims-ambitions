@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_title">The Sims 3 Ambições — port da comunidade</string>
+    <string name="import_body">Este app não inclui o jogo. Selecione a sua própria cópia de The Sims 3 Ambitions versão 1.1.84: um .ipa descriptografado ou um .obb convertido pela ferramenta deste port.\n\nOs arquivos serão copiados para o armazenamento deste app (cerca de 450 MB). Isso só precisa ser feito uma vez. Pode selecionar o pacote em Downloads; não precisa copiá-lo para Android/obb.</string>
+    <string name="import_button">Selecionar arquivo .ipa ou .obb</string>
+    <string name="import_working">Importando os arquivos do jogo… isso pode levar um minuto.</string>
+    <string name="import_error_io">Não foi possível ler ou gravar os arquivos.</string>
+    <string name="import_error_not_package">Este arquivo não é um pacote .ipa ou .obb compatível de The Sims 3 Ambitions.</string>
+    <string name="import_error_wrong_game">Este pacote não contém o executável de The Sims 3 Ambitions.</string>
+    <string name="import_error_invalid_executable">O executável do jogo está incompleto ou inválido. Converta ou copie o pacote novamente.</string>
+    <string name="import_error_no_arch">Esta cópia do jogo não tem código %1$s compatível com este aparelho. Use a versão universal 1.1.84 para iOS.</string>
+    <string name="import_error_encrypted">O executável do jogo ainda está criptografado (DRM FairPlay) e não pode rodar. É necessária uma cópia descriptografada.</string>
+    <string name="exit_title">Sair do jogo?</string>
+    <string name="exit_body">O progresso é salvo automaticamente.</string>
+</resources>

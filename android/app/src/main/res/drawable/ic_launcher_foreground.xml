@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:pivotX="54" android:pivotY="54" android:scaleX="0.92" android:scaleY="0.92">
+    <path android:fillColor="#020A19" android:fillAlpha="0.35"
+        android:pathData="M54,24 L76,55 L54,86 L32,55 Z" />
+    <path android:fillColor="#C6FF8F"
+        android:pathData="M54,19 L76,51 L54,83 L32,51 Z" />
+    <path android:fillColor="#82F323"
+        android:pathData="M54,22 L35,51 L54,55 Z" />
+    <path android:fillColor="#3BC512"
+        android:pathData="M54,22 L73,51 L54,55 Z" />
+    <path android:fillColor="#36BC0F"
+        android:pathData="M35,51 L54,80 L54,55 Z" />
+    <path android:fillColor="#14850D"
+        android:pathData="M73,51 L54,80 L54,55 Z" />
+    <path android:fillColor="#D6FF99" android:fillAlpha="0.65"
+        android:pathData="M54,22 L38,49 L42,48 Z" />
+    <path android:fillColor="#B4FF70" android:fillAlpha="0.75"
+        android:pathData="M35,51 L54,55 L73,51 L54,57 Z" />
+    <path android:fillColor="#E7FAFF"
+        android:pathData="M31,28 L32.5,32 L36.5,33.5 L32.5,35 L31,39 L29.5,35 L25.5,33.5 L29.5,32 Z" />
+    <path android:fillColor="#051329" android:fillAlpha="0.40"
+        android:pathData="M68,61 C75.18,61 81,66.82 81,74 C81,81.18 75.18,87 68,87 C60.82,87 55,81.18 55,74 C55,66.82 60.82,61 68,61 Z" />
+    <path android:fillColor="#FFEFAC"
+        android:pathData="M68,59 C75.18,59 81,64.82 81,72 C81,79.18 75.18,85 68,85 C60.82,85 55,79.18 55,72 C55,64.82 60.82,59 68,59 Z" />
+    <path android:fillColor="#F6C64B"
+        android:pathData="M68,61 C74.08,61 79,65.92 79,72 C79,78.08 74.08,83 68,83 C61.92,83 57,78.08 57,72 C57,65.92 61.92,61 68,61 Z" />
+    <path android:fillColor="#102D4B"
+        android:pathData="M64.4,65.2 C67.4,63.5 72.2,64.1 72.2,67.4 C72.2,69.1 71.2,70.1 69.6,70.7 C71.8,71 72.9,72.2 72.9,74.3 C72.9,78 69.2,79.5 64.1,77.7 L64.1,74.9 C67,76.3 69.8,76.2 69.8,74.1 C69.8,72.5 68.3,72.1 65.8,72.1 L65.8,69.6 C68.5,69.6 69.4,68.9 69.4,67.7 C69.4,66.3 67.4,66.2 64.4,67.7 Z" />
+    </group>
+</vector>

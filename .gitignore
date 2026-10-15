@@ -1,0 +1,44 @@
+# Game files are copyrighted by EA - never commit them
+*.ipa
+*.obb
+*.[iI][pP][aA]
+*.[oO][bB][bB]
+sims3dp_iphone
+sims3dp_armv7*
+sims3dp_arm64*
+sims3dp_iphone.app/
+extracted/
+analysis/
+
+# Local tooling / builds
+.venv/
+__pycache__/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+android/build/
+android/local.properties
+android/keystore.properties
+android/keystore/
+*.apk
+/dist/
+*.log
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+/backups/
+crash.txt
+sim3dat*
+sim3set
+
+# Personal handoff notes (device IP, local workflow)
+PROXIMA-SESSAO.md
+
+# Full-size screenshot intermediates (published previews live in docs/img/)
+*.full.png
